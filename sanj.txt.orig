@@ -1,9 +1,9 @@
 welcome
 this is Sanjay Soni
-
+<<<<<<< HEAD
 
 this is added by developer 1
 
-
+=======
 this is added by Developer 2
-
+>>>>>>> f2
